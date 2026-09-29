@@ -1,0 +1,12 @@
+{
+  "name": "focus-and-flow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Focus & Flow — a dark-mode, AI-assisted to-do app built with HTML, Tailwind CSS (CDN) and vanilla JavaScript.",
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes serve@14 -l 5173 .",
+    "start": "npx --yes serve@14 -l 5173 ."
+  },
+  "license": "MIT"
+}
